@@ -1,6 +1,6 @@
 Hi, I’m Kai, an undergraduate mechatronics engineering student at the University of Waterloo. </br>
 </br>
-I’m mainly interested in AI/ML/DL, especially in terms of their applications to robotics and autonomous systems. Other interests include embedded programming for robotics (FreeRTOS, LLVM, ARM Cortex-M Devices, TinyML) and quantum computing. </br>
+I’m mainly interested in AI/ML/DL, especially in terms of their applications to robotics and autonomous systems. Other interests are also related to this theme, including embedded programming for robotics (TinyML, FreeRTOS, LLVM, ARM Cortex-M Devices) and quantum computing (quantum ML). </br>
 </br>
 Currently working at the Vision and Image Processing Group (UWaterloo) on [deep learning for robotic arms](https://flairop.com/). </br>
 </br>
