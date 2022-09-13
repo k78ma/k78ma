@@ -5,7 +5,7 @@ I’m mainly interested in AI/ML/DL, especially in terms of their applications t
 Currently working at the Vision and Image Processing Group (UWaterloo) on [deep learning for robotic arms](https://flairop.com/). </br>
 </br>
 How to reach me: </br>
-[Email](k78ma@uwaterloo.ca) </br>
+[Email](mailto:k78ma@uwaterloo.ca) </br>
 [Linkedin](https://www.linkedin.com/in/k78ma/)
 
 
