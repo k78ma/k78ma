@@ -1,4 +1,4 @@
-Hi, I’m Kai, an undergraduate mechatronics engineering student at the University of Waterloo. </br>
+Hi! I’m Kai, an undergraduate mechatronics engineering student at the University of Waterloo. </br>
 </br>
 I’m mainly interested in AI/ML/DL, especially in terms of their applications to robotics and autonomous systems. Other interests are also related to this theme, including embedded programming for robotics (TinyML, RTOS) and quantum computing (quantum ML). </br>
 </br>
