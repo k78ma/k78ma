@@ -4,7 +4,7 @@ I’m mainly interested in AI/ML/DL, especially in terms of their applications t
 </br>
 Currently working at the Vision and Image Processing Group (UWaterloo) on [deep learning for robotic arms](https://flairop.com/). </br>
 Past work: [AI-assisted medical imaging](https://github.com/k78ma/COVIDNet-Transformer) (COVID-19 Diagnosis)
-</br>
+</br></br>
 How to reach me: </br>
 [Email](mailto:k78ma@uwaterloo.ca) </br>
 [Linkedin](https://www.linkedin.com/in/k78ma/)
