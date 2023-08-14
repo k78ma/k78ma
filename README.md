@@ -2,8 +2,10 @@ Hi! I’m Kai, an undergraduate mechatronics engineering student at the Universi
 </br>
 I’m mainly interested in AI/ML/DL, especially in terms of their applications to robotics and autonomous systems. Specific interests include robotic perception (computer vision), motion planning (reinforcement learning, search/planning algorithms), control, and SLAM. Other interests include embedded programming for robotics (TinyML, RTOS) and quantum computing (quantum ML). </br>
 </br>
-Currently working at the Vision and Image Processing Group (UWaterloo) on [deep learning for robotic arms](https://flairop.com/). </br>
-Past work: [AI-assisted medical imaging](https://github.com/k78ma/COVIDNet-Transformer) (COVID-19 Diagnosis)
+Currently working at ]Polymath Robotics](https://www.polymathrobotics.com).
+Past work: 
+- [AI-assisted medical imaging](https://github.com/k78ma/COVIDNet-Transformer) (COVID-19 Diagnosis)
+- Vision and Image Processing Group (UWaterloo) on [deep learning for robotic arms](https://flairop.com/). 
 </br></br>
 How to reach me: </br>
 [Email](mailto:k78ma@uwaterloo.ca) </br>
